@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">kotlin-sample</string>
+  <string name="test_resource">I am in the base apk[kotlin]</string>
+  <!--<string name="test_resource">I am in the patch apk</string>-->
+</resources>
